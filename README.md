@@ -1,4 +1,4 @@
-### <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm Ankit Singh(codeantik). Hope you're doin' great. ✌</h1> 
+### <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <strong>Ankit Singh</strong>(codeantik). Hope you're doin' great. ✌</h1> 
 <h2> <i><b>Software Developer </b> | <i><b>Student</b></i> </h2>
 
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 

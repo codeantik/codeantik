@@ -108,7 +108,8 @@ Link to them are available in the begining of this page.
 
 <img alt= "stats card" height="145" width="400" src="https://codeantik-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt= "stats card" height="140" width="300" src="https://codeantik-github-stats.vercel.app/api/top-langs/?username=codeantik&langs_count=3&hide_border=true&theme=tokyonight">
+<img alt= "stats card" height="140" width="300" src="[![codeantik's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeantik)](https://github.com/codeantik/github-readme-stats)
+">
  
 <br/>
 <br/>

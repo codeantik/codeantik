@@ -53,9 +53,9 @@ const tech = {
   "API": ["RestAPI"],
   "mobile frameworks": ["react-native", "android]",
   "design tools": ["figma"],
-  "programming languages": ["python", "javascript", "java", "typescript", "kotlin", "c/c++"],
+  "programming languages": ["python", "javascript", "java", "kotlin", "c/c++"],
   "databases": {
-      "sql":["MySQL", "PostgreSQL", "SQLite"],
+      "sql":["MySQL", "SQLite"],
       "no-sql":["MongoDB","Firestore"]
   }
 }

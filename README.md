@@ -104,10 +104,14 @@ Link to them are available in the begining of this page.
 <br/>
  
  <strong>Let's Look at some statistics 😜 : </strong>
+
+ <br/>
+ <br/>
+ <br/>
  
  <!-- WIDGETS  -->
 
- <img alt="stats-card" align="left" height="145" width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" />
+ <img alt="stats-card" align="left" height="145" width="1200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" />
 
 <img alt= "stats-card" height="170" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

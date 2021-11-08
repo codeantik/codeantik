@@ -1,4 +1,5 @@
-### <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
+<div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
+
 <h2> <i><b>Software Developer </b> | <i><b>Student</b></i> </h2>
 
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -16,8 +17,8 @@
   
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
-I have experience with web-development for over a good amount of time now, starting off in early 2019s and <br/>
-have a bunch of projects to showcase in portfolio. I also practice competitive programming and have a lot of fun <br/> 
+I have experience with web-development for over a good amount of time now, starting off in late 2020s and <br/>
+have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give alomost regular contests on codeforces and leetcode <br/> 
 
 I am a CS undergrad and love to spend quality time in sharpening my skills. I am open to new challenges and collaborations.
 
@@ -53,9 +54,9 @@ const tech = {
   "API": ["RestAPI"],
   "mobile frameworks": ["react-native", "android]",
   "design tools": ["figma"],
-  "programming languages": ["python", "javascript", "java", "typescript", "kotlin", "c/c++"],
+  "programming languages": ["python", "javascript", "java", "kotlin", "c/c++"],
   "databases": {
-      "sql":["MySQL", "PostgreSQL", "SQLite"],
+      "sql":["MySQL", "SQLite"],
       "no-sql":["MongoDB","Firestore"]
   }
 }

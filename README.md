@@ -1,4 +1,5 @@
-### <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <b>Ankit Singh</b>(codeantik). Hope you're doin' great. ✌</h1> 
+<div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
+
 <h2> <i><b>Software Developer </b> | <i><b>Student</b></i> </h2>
 
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -104,17 +105,26 @@ Link to them are available in the begining of this page.
  
  <strong>Let's Look at some statistics 😜 : </strong>
  
+ <!-- WIDGETS  -->
+
+ <img alt="stats-card" height="145" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" />
+
+<br/>
+<br/>
+<br/>
  
 
-<img alt= "stats card" height="145" width="400" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+<img alt= "stats-card" height="145" width="400" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt= "stats card" height="140" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=codeantik&langs_count=3&hide_border=true&theme=tokyonight">
+<!-- <img alt= "stats card" height="145" width="400" src="https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=codeantik&langs_count=3&hide_border=true&theme=tokyonight"> -->
+
+<img alt= "stats-card" height="145" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
  
 <br/>
 <br/>
 <br/>
  
-<img alt= "stats card" height="145" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight">
+<img alt= "stats-card" height="145" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-<img alt= "stats card" height="140" width="300" src="https://github.com/codeantik/codeantik/blob/output/github-contribution-grid-snake.gif">
+<img alt= "stats-card" height="140" width="400" src="https://github.com/codeantik/codeantik/blob/output/github-contribution-grid-snake.gif" />

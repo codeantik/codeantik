@@ -33,7 +33,7 @@ I am a CS undergrad and love to spend quality time in sharpening my skills. I am
 <br/>
 
 ```python
-mySkills=["web developer","mobile application developer,"competitve programmer"]
+mySkills=["web developer","mobile application developer,"competitve programmer", "ml enthusiast"]
 for i in mySkills:
   print(i) 
  ```

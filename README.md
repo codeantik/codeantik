@@ -118,7 +118,7 @@ Link to them are available in the begining of this page.
 
 <img alt= "stats-card" align="right" height="170" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
  
-<img alt="stats-card" align="left" height="170" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />
+<img alt="stats-card" height="170" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 <img alt="stats-card" align="right" height="170" width="300" src="https://github.com/codeantik/codeantik/blob/output/github-contribution-grid-snake.gif" />

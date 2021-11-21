@@ -116,7 +116,7 @@ Link to them are available in the begining of this page.
 <img alt= "stats-card" align="left" height="200" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img alt= "stats-card" align="right" height="200" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
+<img alt= "stats-card" height="200" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
  
 <img alt="stats-card" align="left" height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

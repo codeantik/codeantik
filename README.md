@@ -1,6 +1,6 @@
 <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <strong>Ankit Singh</strong> (codeantik). Hope you're doin' great. ✌</h1> 
 
-<h2> <i><b>Full/MERN Stack Developer, Mobile Developer, Competitive Programmer & ML Enthusiast </b> | <i><b>Student</b></i> </h2>
+<h2> <i><b>Full/MERN Stack Developer, Mobile Developer, Competitive Programmer & ML Enthusiast</b></i></h2>
 
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/ankit-singh-6ba989192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 

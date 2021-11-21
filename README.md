@@ -113,7 +113,7 @@ Link to them are available in the begining of this page.
 
  <img alt="stats-card" align="left" height="145" width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" />
 
-<img alt= "stats-card" height="170" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<img alt= "stats-card" height="170" width="200" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img alt= "stats-card" height="145" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=codeantik&langs_count=3&hide_border=true&theme=tokyonight"> -->
 

@@ -12,10 +12,10 @@
 
 <h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
 <div align= "center"> 
-<i>So here I am... <br/> A self-taught programmer, I love helping others in clearing off their bugs.
+<i>So here I am... <br/> A self-taught programmer, I love helping others in resolving their bugs.
 <br/>
   
-**P.S.: I do ask people whenever I fail to debug some codes**. 😬
+**P.S.: I do ask people for help whenever I fail to debug my code**. 😬
 
 I have experience with web-development for over a good amount of time now, starting off in late 2020s and <br/>
 have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give alomost regular contests on codeforces and leetcode <br/> 

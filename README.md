@@ -12,7 +12,7 @@
 
 <h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
 <div align= "center"> 
-<i>So here I am... <br/> A self-taught programmer, I love helping others in resolving their bugs.
+<i>So here we go... <br/> A self-taught programmer, I love helping others in resolving their bugs.
 <br/>
   
 **P.S.: I do ask people for help whenever I fail to debug my code**. 😬

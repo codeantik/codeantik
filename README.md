@@ -1,4 +1,4 @@
-<div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <strong>Ankit Singh</strong> (codeantik). Hope you're doin' great. ✌</h1> 
+<div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm <strong>Ankit Singh</strong> (codeantik). Hope you're doing great. ✌</h1> 
 
 <h2> <i><b>Web | Mobile | CP | ML </b></i></h2>
 

@@ -10,7 +10,7 @@
  <br/>
  <br/>
 
-<h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
+<h3 align ="center">Thank you so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
 <div align= "center"> 
 <i>So here we go... <br/> A self-taught programmer, I love helping others in resolving their bugs.
 <br/>

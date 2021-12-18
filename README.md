@@ -92,7 +92,7 @@ int main() {
 **I love talking to people about softwares, technology, cosmos and future. So, if you feel like chatting with me; Drop a 'Hi' at my mailbox, linkedIn or instagram. I will be very happy to connect with you.**
 Links to them are available in the begining of this page. 
 <br/> 
-**So, swipe up !!!**
+**So, scroll up !!!**
 
 <img align="center" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/6fr.gif" height="150" width="175">
  

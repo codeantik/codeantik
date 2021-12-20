@@ -52,7 +52,7 @@ for i in mySkills:
 const tech = {
   "web frameworks": ["react js", "node js", "express js", "vue js", "next js", "bootstrap", "tailwindcss", "materialui"],
   "API": ["RestAPI"],
-  "mobile frameworks": ["react-native", "android]",
+  "mobile frameworks": ["react-native", "native-android]",
   "design tools": ["figma"],
   "programming languages": ["python", "javascript", "java", "kotlin", "c/c++"],
   "databases": {

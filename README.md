@@ -28,7 +28,7 @@ I am a CS undergrad and I love to spend quality time in sharpening my skills. I 
 <br/>
 <h3><b>FAQs:</b> <img src="https://github.com/codeantik/codeantik/blob/main/3MG4.gif" width="60"> </h3>
 
-- **What do I Do?**
+- **What do I do?**
 <img align="right" src="https://github.com/codeantik/codeantik/blob/main/299r.gif" width="300">
 <br/>
 

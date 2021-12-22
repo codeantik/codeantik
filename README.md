@@ -89,7 +89,7 @@ int main() {
 <br/>
 <div align= "center">
  
-**I love talking to people about softwares, technology, cosmos and future. So, if you feel like chatting with me; Drop a 'Hi' at my mailbox, linkedIn or instagram. I will be glad to connect with you.**
+**I love talking to people about softwares, technology and cosmos. So, if you feel like chatting with me; Drop a 'Hi' at my mailbox, linkedIn or instagram. I will be glad to connect with you.**
 Links to them are available in the begining of this page. 
 <br/> 
 **So, scroll up !!!**

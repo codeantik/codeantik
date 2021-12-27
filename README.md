@@ -34,8 +34,8 @@ I am a CS undergrad and I love to spend quality time in sharpening my skills. I 
 
 ```python
 mySkills=["web developer","mobile developer,"competitve programmer", "ml enthusiast"]
-for skill in mySkills:
-  print(skill) 
+for myskill in mySkills:
+  print(myskill) 
  ```
  
 <br/>

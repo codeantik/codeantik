@@ -35,7 +35,7 @@ I am a CS undergrad and I love to spend quality time in sharpening my skills. I 
 ```python
 mySkills=["web developer","mobile developer,"competitve programmer", "ml enthusiast"]
 for mySkill in mySkills:
-  print(mySkill) 
+  print(mySkill)
  ```
  
 <br/>
@@ -75,6 +75,7 @@ int main() {
   for(int i = 0; i < learning.size(); i++){
       cout << learning[i] << " ";
     }
+    return 0;
   }
 ```
 

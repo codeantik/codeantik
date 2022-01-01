@@ -51,7 +51,7 @@ for mySkill in mySkills:
 ```javascript
 const tech = {
   "web frameworks": ["react js", "node js", "express js", "vue js", "next js", "bootstrap", "tailwindcss", "materialui"],
-  "API": ["RestAPI"],
+  "api": ["RestAPI"],
   "mobile frameworks": ["react-native", "native-android]",
   "design tools": ["figma"],
   "programming languages": ["python", "javascript", "java", "kotlin", "c/c++"],

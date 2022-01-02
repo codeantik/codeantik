@@ -18,7 +18,7 @@
 **P.S.: I do ask for help whenever I fail to debug my code**. 😬
 
 I have gained experience on web-development for over a good amount of time now, starting off in late 2020s and now <br/>
-have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give alomost regular contests on codeforces, atcoder and leetcode <br/> 
+have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give almost regular contests on codeforces, atcoder and leetcode <br/> 
 
 I am a CS undergrad and I love to spend quality time in sharpening my skills. I am open to new challenges and collaborations.
 

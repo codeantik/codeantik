@@ -104,7 +104,7 @@ Links to them are available in the begining of this page.
 <br/>
 <br/>
  
- <strong>Let's Look at some statistics 😜 : </strong>
+ <strong>Let's look at some statistics 😜 : </strong>
 
  <br/>
  <br/>

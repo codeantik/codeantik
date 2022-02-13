@@ -71,7 +71,7 @@ const tech = {
  
 ```c++
 int main() {
-  vector<int> learning = {"typescript", "scss", "machine-learning", "react-native", "ant-design"};
+  vector<int> learning = {"typescript", "flutter", "machine-learning", "react-native"};
   for(int i = 0; i < learning.size(); i++){
       cout << learning[i] << " ";
     }

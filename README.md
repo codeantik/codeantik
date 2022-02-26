@@ -95,7 +95,7 @@ Links to them are available in the begining of this page.
 <br/> 
 **So, scroll up !!!**
 
-<img align="center" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/6fr.gif" height="150" width="175">
+<img align="center" src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" height="150" width="175">
  
 </div>
 <br/>

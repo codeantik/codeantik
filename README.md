@@ -1,4 +1,4 @@
-<div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I am <strong>Ankit Singh</strong> (codeantik). Hope you're doing great. ✌</h1> 
+<div align= "center"><img src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
 
 <h2> <i><b>Web | Mobile | CP | ML </b></i></h2>
 
@@ -117,6 +117,8 @@ Links to them are available in the begining of this page.
 <img alt= "stats-card" align="left" height="170" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<img alt= "stats-card" height="145" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
+&nbsp;&nbsp;&nbsp;
 <img alt= "stats-card" height="140" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
  
 <img alt="stats-card" align="left" height="170" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />

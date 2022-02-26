@@ -1,6 +1,6 @@
 <div align= "center"><img src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
 
-<h2> <i><b>Software Developer </b> | <i><b>Student</b></i> </h2>
+<h2> <i><b>Web | Mobile | CP | ML </b></i></h2>
 
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/ankit-singh-6ba989192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -10,17 +10,17 @@
  <br/>
  <br/>
 
-<h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
+<h3 align ="center">Thank you so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
 <div align= "center"> 
-<i>So here I am... <br/> A self-taught programmer, I love helping others in clearing off their bugs.
+<i>So here we go... <br/> A self-taught programmer, I love helping others in resolving their bugs.
 <br/>
   
-**P.S.: I do ask people whenever I fail to debug some codes**. 😬
+**P.S.: I do ask for help whenever I fail to debug my code**. 😬
 
-I have experience with web-development for over a good amount of time now, starting off in late 2020s and <br/>
-have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give alomost regular contests on codeforces and leetcode <br/> 
+I have gained experience on web-development for over a good amount of time now, starting off in late 2020s and now <br/>
+have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give almost regular contests on codeforces, atcoder and leetcode <br/> 
 
-I am a CS undergrad and love to spend quality time in sharpening my skills. I am open to new challenges and collaborations.
+I am a CS undergrad and I love to spend quality time in sharpening my skills. I am open to new challenges and collaborations.
 
 </i></div>
 <br/>
@@ -28,14 +28,14 @@ I am a CS undergrad and love to spend quality time in sharpening my skills. I am
 <br/>
 <h3><b>FAQs:</b> <img src="https://github.com/codeantik/codeantik/blob/main/3MG4.gif" width="60"> </h3>
 
-- **What I Do?**
+- **What do I do?**
 <img align="right" src="https://github.com/codeantik/codeantik/blob/main/299r.gif" width="300">
 <br/>
 
 ```python
-mySkills=["web developer","mobile application developer,"competitve programmer"]
-for i in mySkills:
-  print(i) 
+mySkills=["web-developer","mobile developer,"competitve programmer", "ml enthusiast"]
+for mySkill in mySkills:
+  print(mySkill)
  ```
  
 <br/>
@@ -51,8 +51,8 @@ for i in mySkills:
 ```javascript
 const tech = {
   "web frameworks": ["react js", "node js", "express js", "vue js", "next js", "bootstrap", "tailwindcss", "materialui"],
-  "API": ["RestAPI"],
-  "mobile frameworks": ["react-native", "android]",
+  "api": ["RestAPI"],
+  "mobile frameworks": ["react-native", "native-android]",
   "design tools": ["figma"],
   "programming languages": ["python", "javascript", "java", "kotlin", "c/c++"],
   "databases": {
@@ -71,10 +71,11 @@ const tech = {
  
 ```c++
 int main() {
-  vector<int> learning = {"scss", "machine-learning", "react-native with react-native-cli", "ant-design"};
+  vector<int> learning = {"typescript", "flutter", "machine-learning", "react-native"};
   for(int i = 0; i < learning.size(); i++){
       cout << learning[i] << " ";
     }
+    return 0;
   }
 ```
 
@@ -89,10 +90,10 @@ int main() {
 <br/>
 <div align= "center">
  
-**I love talking to different people about softwares and space. So, if you feel like chit-chatting with me; Drop a 'Hi' at my mailbox, linkedIn or instagram. I will be very happy to connect with you.**
-Link to them are available in the begining of this page. 
+**I love talking to people about softwares, technology and cosmos. So, if you feel like chatting with me; Drop a 'Hi' at my mailbox, linkedin or instagram. I will be glad to connect with you.**
+Links to them are available in the begining of this page. 
 <br/> 
-**So, swipe up !!!**
+**So, scroll up !!!**
 
 <img align="center" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/6fr.gif" height="150" width="175">
  
@@ -103,7 +104,7 @@ Link to them are available in the begining of this page.
 <br/>
 <br/>
  
- <strong>Let's Look at some statistics 😜 : </strong>
+ <strong>Let's look at some statistics 😜 : </strong>
 
  <br/>
  <br/>
@@ -111,16 +112,16 @@ Link to them are available in the begining of this page.
  
  <!-- WIDGETS  -->
 
- <img alt="stats-card" align="left" height="145" width="1200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" />
+ <img alt="stats-card" align="center" height="200" width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" />
 
-<img alt= "stats-card" height="170" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<img alt= "stats-card" align="left" height="170" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=codeantik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img alt= "stats-card" height="145" width="300" src="https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=codeantik&langs_count=3&hide_border=true&theme=tokyonight"> -->
 
 <img alt= "stats-card" height="145" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
 &nbsp;&nbsp;&nbsp;
+<img alt= "stats-card" height="140" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeantik&theme=github_dark" />
  
-<img alt="stats-card" height="170" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />
+<img alt="stats-card" align="left" height="170" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=codeantik&hide_border=true&theme=tokyonight" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-<img alt="stats-card" height="170" width="300" src="https://github.com/codeantik/codeantik/blob/output/github-contribution-grid-snake.gif" />
+<img alt="stats-card"  height="170" width="300" src="https://github.com/codeantik/codeantik/blob/output/github-contribution-grid-snake.gif" />

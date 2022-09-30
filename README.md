@@ -1,4 +1,4 @@
-<div align= "center"><img src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
+<div align= "center"><img src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" width="100" height="150"></div> <h1>I amm <em>Ankit Singh</em>(codeantik). Hope you're doin' great. ✌</h1> 
 
 <h2> <i><b>Web | Mobile | CP | ML </b></i></h2>
 

@@ -1,6 +1,6 @@
 <div align= "center"><img src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" width="100" height="150"></div> <h1>I'm <em>Ankit Singh</em>(codeantik). Hope you are doing great. ✌</h1> 
 
-<h2> <i><b>Web | Mobile | CP | ML </b></i></h2>
+<h2> <i><b> Web | Mobile | CP | ML | DL | AI </b></i></h2>
 
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/ankit-singh-6ba989192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -12,12 +12,12 @@
 
 <h3 align ="center">Thank you so much for finding time to visit my profile <img src="https://github.com/codeantik/codeantik/blob/main/14Vb.gif" width="80"></h3>
 <div align= "center"> 
-<i>So here we go... <br/> A self-taught programmer, I love helping others in resolving their bugs.
+<i>So here we go... <br/> Being self-taught programmer, I love helping others in resolving their bugs.
 <br/>
   
 **P.S.: I do ask for help whenever I fail to debug my code**. 😬
 
-I have gained experience on web-development for over a good amount of time now, starting off in late 2020s and now <br/>
+I have gathered experience on web-development, dsa, mobile-development fo a good amount of time now, starting off in the end of the year 2020s and now <br/>
 have a bunch of projects to showcase in portfolio. I am a comptetitve porgrammer too so I give almost regular contests on codeforces, atcoder and leetcode <br/> 
 
 I am a CS undergrad and I love to spend quality time in sharpening my skills. I am open to new challenges and collaborations.
@@ -71,7 +71,7 @@ const tech = {
  
 ```c++
 int main() {
-  vector<int> learning = {"golang", "blockchain", "deep-learning", "devops"};
+  vector<int> learning = {"system-design", "blockchain", "deep-learning", "devops"};
   for(int i = 0; i < learning.size(); i++){
       cout << learning[i] << " ";
     }

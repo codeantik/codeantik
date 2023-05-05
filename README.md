@@ -71,7 +71,7 @@ const tech = {
  
 ```c++
 int main() {
-  vector<int> learning = {"typescript", "flutter", "machine-learning", "react-native"};
+  vector<int> learning = {"golang", "blockchain", "deep-learning", "devops"};
   for(int i = 0; i < learning.size(); i++){
       cout << learning[i] << " ";
     }

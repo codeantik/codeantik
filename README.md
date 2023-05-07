@@ -33,9 +33,9 @@ I am a CS undergrad and I love to spend quality time in sharpening my skills. I 
 <br/>
 
 ```python
-mySkills=["web-developer","mobile developer,"competitve programmer", "ml enthusiast"]
-for mySkill in mySkills:
-  print(mySkill)
+skills=["web-developer","mobile developer,"competitve programmer", "ml enthusiast"]
+for skill in skills:
+  print(skill)
  ```
  
 <br/>
@@ -52,7 +52,7 @@ for mySkill in mySkills:
 const tech = {
   "web frameworks": ["react js", "node js", "express js", "vue js", "next js", "bootstrap", "tailwindcss", "materialui"],
   "api": ["RestAPI"],
-  "mobile frameworks": ["react-native", "native-android]",
+  "mobile frameworks": ["react-native", "native-android"],
   "design tools": ["figma"],
   "programming languages": ["python", "javascript", "java", "kotlin", "c/c++"],
   "databases": {

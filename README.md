@@ -1,170 +1,73 @@
 <div align="center">
+  <img src="https://github.com/codeantik/codeantik/blob/main/6fr.gif" width="100" height="150">
+  
+  <h1>Hi, I'm <a href="https://linkedin.com/in/codeantik">Ankit Singh</a> (aka codeantik) 👋</h1>
 
-# Hi 👋 I'm Ankit Singh
+  <p>
+    <strong>Full Stack Developer II @ Neki.io | Open Source Contributor | ML Enthusiast</strong>
+  </p>
 
-### 🚀 Full Stack Developer | Next.js | MERN | SaaS Builder
-
-<img src="https://komarev.com/ghpvc/?username=codeantik&label=Profile%20views&color=0e75b6&style=flat" />
-
+  <a href="https://linkedin.com/in/codeantik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ankitsinankitsin888000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/codeantik_099/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codeantik.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
+  
+  <br/>
+  <img height="28" src="https://komarev.com/ghpvc/?username=codeantik&style=flat-square&color=blueviolet" alt="Profile Views">
 </div>
 
 ---
 
-# 👨‍💻 About Me
+### 🚀 About Me
+I am a **Full Stack Developer** with 2.5+ years of experience specializing in building high-performance web and mobile applications. Currently, I'm leading technical phases at **Neki.io**, focusing on architectural scalability and seamless user experiences.
 
-* 💻 Full Stack Developer building **scalable SaaS platforms**
-* 🚀 Currently working on **community & nonprofit platforms**
-* ⚡ Backend & performance optimization enthusiast
-* 🧠 Strong background in **competitive programming**
-* 🌍 Based in India
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/codeantik">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ankitsinankitsin888000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/codeantik_099">
-<img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeantik.hashnode.dev">
-<img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
-</p>
+- ⚡ **Problem Solving:** 2,000+ challenges solved across LeetCode, GFG, and CodeStudio.
+- 🏗️ **Architecture:** Expert in the T3 Stack (TypeScript, Tailwind, Tanstack) & Go.
+- 🤖 **Interest:** Actively exploring the intersection of **Deep Learning** and Web Scalability.
+- 💬 **Ask me about:** React, Next.js, Node.js, and the cosmos 🌌.
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-</p>
-
-### DevOps / Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins"/>
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Golang` `Python` `Java` `C++` `Dart` |
+| **Frontend** | `Next.js` `React` `Vue.js` `React Native` `Redux` `Zustand` `TailwindCSS` |
+| **Backend** | `Node.js` `Express` `Fastify` `NestJS` `Django` `Kong API Gateway` |
+| **Cloud/DevOps** | `AWS (EC2/S3/Lightsail)` `Docker` `Kubernetes` `Jenkins` `Git` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Firebase` `ElasticSearch` |
 
 ---
 
-# 🚀 Featured Projects
+### 🌟 Top Projects
 
-### SaaS Community Platform
-
-Built a platform enabling companies and nonprofits to collaborate through donations, volunteering, and community engagement.
-
-Tech: **Next.js, Node.js, MongoDB, PostgreSQL, AWS**
+- **[Billing & Invoice System](https://github.com/codeantik/Billing-System):** A full-cycle invoice generator featuring Stripe API integration, automated notifications, and dynamic PDF generation.
+- **[Catalog E-Commerce](https://github.com/codeantik/CatalogApp):** A high-performance mobile application with dynamic cart management and real-time product synchronization built with Flutter.
+- **[GenNews](https://github.com/codeantik/GenNews):** A real-time Android news application utilizing Volley for API consumption and Chrome Custom Tabs for optimized UX.
 
 ---
 
-### Catalog Mobile App
-
-E-commerce mobile application built with **Flutter** supporting product catalog and cart features.
-
----
-
-### Billing System
-
-Invoice generation system with **Stripe payment integration** and email automation.
-
----
-
-# 🧩 Competitive Programming
-
-* Solved **2000+ coding problems**
-* **Meta Hacker Cup Round 1 qualifier**
-* Active on **LeetCode**
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codeantik&theme=darkhub&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codeantik&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeantik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeantik&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/codeantik/codeantik/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 💡 What I Do
-
-```javascript
-const developer = {
-  name: "Ankit Singh",
-  role: "Full Stack Developer",
-  stack: ["Next.js", "Node.js", "MongoDB", "PostgreSQL"],
-  focus: [
-    "SaaS Platforms",
-    "System Design",
-    "Backend Optimization",
-    "Scalable APIs"
-  ],
-  passion: "Building products that scale 🚀"
-}
-```
-
----
+### 📊 Github Statistics
 
 <div align="center">
-
-⭐ From [codeantik](https://github.com/codeantik)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeantik&theme=github_dark" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codeantik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeantik&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
+
+---
+
+### 📂 Current Focus
+```golang
+package main
+
+import "fmt"
+
+func main() {
+    focus := []string{"System Design", "Cloud Native Architectures", "AI Agentic Workflows"}
+    for _, topic := range focus {
+        fmt.Printf("Currently Leveling Up: %s 🚀\n", topic)
+    }
+}

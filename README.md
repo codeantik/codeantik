@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ankit Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML & Agentic AI Enthusiast</h3>
+<h3 align="center">AI Engineer · Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codeantik&label=Profile%20views&color=0e75b6&style=flat" alt="codeantik" />
@@ -10,11 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer building **scalable SaaS platforms**
-- 🤖 Currently exploring **Agentic AI** — LangChain, LangGraph, RAG pipelines & multi-agent systems
-- 🧠 Strong background in **competitive programming** (2000+ problems solved)
-- ⚡ Backend & performance optimization enthusiast
-- 🏆 **Meta Hacker Cup Round 1 Qualifier**
+- 🤖 Building production **Agentic AI** systems — LangGraph agents, RAG pipelines, pgvector, multi-agent orchestration
+- 💻 3.5+ years shipping full-stack web applications end-to-end — architecture → development → AWS deployment
+- 🏆 **Meta Hacker Cup Round 1 Qualifier** · 2000+ competitive programming problems solved
 - 🌍 Based in Ambikapur, Chhattisgarh, India
 
 ---
@@ -24,15 +22,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeantik)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsinankitsin888000@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/codeantik_099)
-[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://codeantik.hashnode.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkitSi35629046)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-![JavaScript](https://skillicons.dev/icons?i=js,ts,python,java,cpp,go)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux)
@@ -41,66 +37,59 @@
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis)
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
 
 ### DevOps / Cloud
 ![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins)
 
-### 🤖 AI / ML / Agentic AI
+### 🤖 AI / Agentic AI
 | Tool | Purpose |
 |------|---------|
-| **LangChain** | LLM application framework, chains & agents |
 | **LangGraph** | Stateful multi-agent orchestration graphs |
+| **LangChain** | LLM application framework, chains & tool calling |
 | **RAG Pipelines** | Retrieval-Augmented Generation with vector DBs |
-| **OpenAI / Claude API** | LLM integrations & tool use |
-| **Pinecone / ChromaDB** | Vector database for semantic search |
-| **HuggingFace** | Open-source models & transformers |
-| **PyTorch / TensorFlow** | Deep learning model training |
+| **pgvector / FAISS** | Vector search — hybrid keyword + semantic |
+| **LangSmith** | Tracing, evaluation & observability |
+| **MCP** | Model Context Protocol tool integrations |
+| **OpenAI / Claude API** | LLM integrations, structured outputs & tool use |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏘️ SaaS Community Platform
-> Built a platform enabling companies and nonprofits to collaborate through donations, volunteering, and community engagement.
+### 🤖 [AI Research Copilot](https://github.com/codeantik/ai-research-copilot) · [Live Demo ↗](https://ai-research-copilot-five.vercel.app)
+> Objective-driven research agent: a LangGraph pipeline (planner → researcher → analyst → quality-check loop → report) where the user's goal steers every node prompt — so an acquisition brief and a partnership brief come out materially different. Streams node-by-node via SSE, Postgres-checkpointed state, grounded follow-up chat.
 
-**Tech:** Next.js · Node.js · MongoDB · PostgreSQL · AWS
-
----
-
-### 🤖 Agentic AI Workflow System *(In Progress)*
-> Multi-agent orchestration system using **LangGraph** with stateful memory, tool use, and RAG integration for autonomous task execution.
-
-**Tech:** LangChain · LangGraph · FastAPI · ChromaDB · OpenAI
+**Tech:** LangGraph · FastAPI · React · PostgreSQL · Tavily · Docker
 
 ---
 
-### 🛒 Catalog Mobile App
-> E-commerce mobile application built with Flutter supporting product catalog and cart features.
+### 🎌 [AI Anime Discovery](https://github.com/codeantik/ai-anime-discovery) · [Live Demo ↗](https://ai-anime-discovery.vercel.app)
+> Semantic anime recommender: offline FAISS index → embed query at request time → MongoDB metadata filters → LLM re-rank to ~12 picks, each with a one-line "why". AniList OAuth personalisation from watch history, LangGraph chat agent, weekly precision@k eval in CI — all on free-tier infrastructure.
 
-**Tech:** Flutter · Dart
-
----
-
-### 💳 Billing System
-> Invoice generation system with Stripe payment integration and email automation.
-
-**Tech:** Node.js · Stripe API · MongoDB
+**Tech:** Next.js · FastAPI · FAISS · MongoDB · LangGraph · LangSmith
 
 ---
 
-### 💬 React Chat App
-> Real-time web chat app where users can create rooms and chat.
+### 🏘️ [Neki — AI Content Platform](https://my.neki.io/explore) *(Production)*
+> AI content-creation platform for nonprofits. Production LangGraph agent (FastAPI) for multi-org social content generation, pgvector RAG knowledge base with HNSW indexing and hybrid keyword + vector search, Meta Graph API integration, multi-tenant architecture. Sole developer for 2.5+ years.
 
-**Tech:** React · Firebase · JavaScript
+**Tech:** Next.js · Node.js · Python · LangGraph · PostgreSQL · pgvector · AWS
+
+---
+
+### 💬 [RAG Chatbot](https://github.com/codeantik/rag-chatbot)
+> Multi-mode RAG chatbot with tool calling, MCP integration, SQLite-backed long-term memory, and real-time streaming Streamlit frontend.
+
+**Tech:** LangGraph · LangChain · FAISS · Streamlit · Python
 
 ---
 
 ## 🧩 Competitive Programming
 
-- ✅ Solved **2000+ coding problems**
+- ✅ Solved **2000+ coding problems** across LeetCode, Codeforces & CodeChef
 - 🏆 **Meta Hacker Cup Round 1 Qualifier**
-- ⚡ Active on **LeetCode** — [codeantik_099](https://leetcode.com/codeantik_099)
+- ⚡ [LeetCode — codeantik_099](https://leetcode.com/codeantik_099)
 
 ---
 
@@ -131,29 +120,28 @@
 
 ---
 
-## 💡 What I Do
+## 💡 What I Build
 
 ```typescript
-const developer = {
+const ankit = {
   name: "Ankit Singh",
-  role: "Full Stack Developer & AI Engineer",
+  roles: ["AI Engineer", "Full Stack Developer"],
   stack: {
-    frontend:  ["Next.js", "React", "Tailwind CSS"],
-    backend:   ["Node.js", "FastAPI", "Express"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "ChromaDB"],
-    ai_ml:     ["LangChain", "LangGraph", "RAG", "OpenAI", "HuggingFace"],
-    devops:    ["AWS", "Docker", "Kubernetes"],
+    ai:        ["LangGraph", "LangChain", "RAG", "FAISS", "pgvector", "MCP"],
+    backend:   ["Node.js", "FastAPI", "Express", "PostgreSQL", "MongoDB"],
+    frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    infra:     ["AWS", "Docker", "Kubernetes", "CI/CD"],
   },
   currentFocus: [
-    "Agentic AI Systems",
-    "Multi-Agent Orchestration with LangGraph",
-    "RAG & Vector Search Pipelines",
-    "Scalable SaaS Architectures",
+    "Production agentic AI systems",
+    "Multi-agent orchestration with LangGraph",
+    "RAG & hybrid vector search pipelines",
+    "Scalable full-stack SaaS architectures",
   ],
-  passion: "Building intelligent products that scale 🚀🤖",
+  funFact: "Solved 2000+ CP problems and still thinks in graphs 🧠",
 };
 ```
 
 ---
 
-<p align="center">⭐ From <a href="https://github.com/codeantik">codeantik</a> — last updated April 2026</p>
+<p align="center">⭐ From <a href="https://github.com/codeantik">codeantik</a></p>

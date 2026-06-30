@@ -78,10 +78,10 @@
 
 ---
 
-### 💬 [RAG Chatbot](https://github.com/codeantik/rag-chatbot)
-> Multi-mode RAG chatbot with tool calling, MCP integration, SQLite-backed long-term memory, and real-time streaming Streamlit frontend.
+### 🪄 [AI Social Content Agent](https://my.neki.io/explore) *(Production)*
+> Multi-org social content generation agent powering Neki. A stateless LangGraph (FastAPI) pipeline that assembles bounded, org-scoped context from a pgvector knowledge base and drafts on-brand posts, with a resilient image-generation fallback ladder (gpt-image-1 → mini → dall-e-3 → dall-e-2 → PIL) and one-click publishing to Facebook, Instagram & LinkedIn via the Meta Graph API. Migrated from a Streamlit prototype to a decoupled Next.js + TanStack Query + FastAPI stack, with Chainlit as an optional debug harness.
 
-**Tech:** LangGraph · LangChain · FAISS · Streamlit · Python
+**Tech:** LangGraph · FastAPI · Next.js · TanStack Query · pgvector · Meta Graph API
 
 ---
 
